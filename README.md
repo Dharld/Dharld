@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Djoumessi Donfack Yann Harold
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me email:yanndjoumessi@gmail.com phone: +14046494887
 
 <!---
