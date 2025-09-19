@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Djoumessi Donfack Yann Harold
+- 👋 Hi, I’m Yann Djoumessi
 - 👀 I’m interested in Software engineering
 - 📫 How to reach me email:yanndjoumessi@gmail.com phone: +14046494887
 
