@@ -54,10 +54,7 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 ---
 
 ### 📈 My GitHub at a Glance
-
-![Dharld's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharld&show_icons=true&count_private=true&theme=tokyonight&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharld&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🌱 What I'm Up To
