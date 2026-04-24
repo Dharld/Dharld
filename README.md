@@ -56,7 +56,7 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharld&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### 🏆 LeetCode Stats
+### LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/lynois/">
@@ -66,7 +66,7 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <a href="mailto:yanndjoumessi@gmail.com"><img src="https://img.shields.io/badge/email-yanndjoumessi@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/yanndjoumessi/"><img src="https://img.shields.io/badge/LinkedIn-Yann%20Djoumessi-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
