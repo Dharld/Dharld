@@ -4,7 +4,7 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 
 <h1 align="center">Hi there, I'm Yann Djoumessi</h1>
 <p align="center">
-  <b>Backend Engineer | Distributed Systems Enthusiast | Relentless Problem Solver</b>
+  <b>Backend Engineer | Distributed Systems Enthusiast </b>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Open%20Source-blue?style=flat-square&logo=github" alt="Open Source" />
