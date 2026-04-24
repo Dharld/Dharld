@@ -2,7 +2,7 @@
 Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there 👋, I'm Yann Djoumessi</h1>
+<h1 align="center">Hi there, I'm Yann Djoumessi</h1>
 <p align="center">
   <b>Backend Engineer | Distributed Systems Enthusiast | Relentless Problem Solver</b>
 </p>
@@ -14,14 +14,13 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 I love working at the intersection of **backend engineering** and **distributed systems**.
-- 🧩 I love untangling complex problems, designing resilient architectures, and exploring the boundaries of what's possible with code.
-- 🔍 I am currently learning about storage systems and database internals. 
+- I love working at the intersection of **backend engineering** and **distributed systems**.
+- I am currently learning about storage systems and database internals. 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages
 <p>
@@ -53,16 +52,9 @@ Dharld/Dharld is a ✨ special ✨ repository because its `README.md` (this file
 
 ---
 
-### 📈 My GitHub at a Glance
+### My GitHub at a Glance
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharld&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
-### 🌱 What I'm Up To
-
-- 🛠️ Building scalable backend systems and microservices.
-- 📚 Exploring distributed consensus algorithms and cloud orchestration.
-- 🌍 Occasionally open-sourcing tools and libraries I wish existed.
-- ✍️ Writing about the intersection of engineering and creativity.
 
 ### 🏆 LeetCode Stats
 
